@@ -8,8 +8,6 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue">
   <img alt="LLM" src="https://img.shields.io/badge/LLM-YandexGPT-red">
-  <img alt="status" src="https://img.shields.io/badge/status-MVP-yellow">
-  <img alt="license" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
 ---
@@ -309,18 +307,3 @@ pip install -e ".[tracing]"
 - [ ] История заданий и human-in-the-loop редактирование в дэше.
 - [ ] Мультиязычная генерация из одних источников.
 
----
-
-## 🙏 Благодарности
-
-- Архитектурная основа (LangGraph-подход, порты и адаптеры, цепочка агентов) —
-  [pueraeternis/autonomous-content-agents](https://github.com/pueraeternis/autonomous-content-agents).
-- Паттерн интеграции с Yandex Cloud —
-  [pueraeternis/yandex-gpt-api](https://github.com/pueraeternis/yandex-gpt-api).
-- Оформление дэша вдохновлено эстетикой [History's Edge](https://historygame.ru/).
-
----
-
-## 📄 Лицензия
-
-MIT — добавьте файл `LICENSE` в корень репозитория перед публикацией.
